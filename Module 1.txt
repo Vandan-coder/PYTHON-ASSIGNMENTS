@@ -1,0 +1,18 @@
+                                                              Module:  1
+Question 1]  What is Python?
+Answer]    Python is a computer programming language often used to build website and software automate tasks and conduct data analysis.
+
+Question 2]   What is software ?
+Answer]    Software is a collection of computer programs and related data that provide the instruction for telling a what to do and how to do it.
+
+Question 3]   Types  of  Software.
+Answer] There are three types of Software :
+1] System  software :These software programs are designed to run a computer application programs and hardware ,system software coordination.
+2]  Application Software : The most common type of software, application software is a computer software package that performs specific function foe a user , or in some cases, for application.
+3] Programming  Software : Programmers use programming software to write  code. Programming software and programming tools to enable developers to develop, write, test and debug other software programs.
+
+Question 4]  Who developed  computer?
+Answer]  English mathematician and inventor Charles Babbage is credited with having conceived the first automatic digital computer. 
+
+Question 5]  What is meaning of programming language?
+Answer]   A language which is used to write a program.
